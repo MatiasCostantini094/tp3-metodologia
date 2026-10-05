@@ -10,7 +10,7 @@ function aplicarDescuento(monto, esClientePremium) {
 // Exportamos la función para que el entorno de pruebas pueda acceder a ella
 module.exports = { aplicarDescuento };
 
-
+// Fix validacioens para Issue 1
 
 
 
